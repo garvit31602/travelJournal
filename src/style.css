@@ -1,0 +1,68 @@
+svg{
+    fill:#FFF;
+}
+
+#nav{
+    display: flex;
+    background-color: #78b0ff;    ;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    color: white;
+    font-size: 8px;
+    position: sticky;
+    width: 100%;
+    top:0;
+}
+
+html{
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+#card{
+    display: flex;
+    margin: 30px 20px;
+    align-items: center;
+}
+
+u{
+    font-size: 6px;
+    color: gray;
+}
+
+#loc{
+    font-size: 7px;
+    letter-spacing: 1.5px;
+    margin: 0 1px 0 2px;
+}
+
+#mainphoto{
+    margin-right: 10px;
+}
+
+#text{
+    font-size: 7px;
+}
+
+#title{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#date{
+    font-weight: bold;
+    font-size: 8px;
+    margin: 20px 0 5px;
+}
+
+#world{
+    margin-right: 4px;
+}
